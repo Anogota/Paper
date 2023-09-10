@@ -1,3 +1,4 @@
+
 1. How many TCP ports are open on the remote host?
 First what we need to do is some recon, to know what's running on the server, for CTF it's enough use: nmap -sV <IP> with this i got everything what i want to know
 
